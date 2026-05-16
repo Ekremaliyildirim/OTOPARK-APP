@@ -1,1 +1,1 @@
-çalıştırmak için node kütüphanesi eklenmeli
+çalıştırmak için node kütüphanesi eklenmeli.
